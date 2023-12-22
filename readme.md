@@ -6,3 +6,5 @@
 2. CSS
 
 ## Notes
+
+-Worked on images and made self-sufficient
