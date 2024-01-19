@@ -7,4 +7,4 @@
 
 ## Notes
 
--Worked on images and made self-sufficient
+- Worked on images and made self-sufficient
